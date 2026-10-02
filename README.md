@@ -1,6 +1,6 @@
 # P2 – Infra 3: VPN de acceso remoto (Dialup) FortiGate + MikroTik
 **Gregorys Morel Duluc – 2025-0035 – Seguridad de Redes (ITLA)**
-
+https://youtu.be/j5v7lGj5dFg
 ## Topología
 Cliente remoto PC3 (detrás de MT1) ⇄ ISP 200.35.0.0/24 ⇄ FG1 (servidor de VPN) ⇄ servidor WEB3.
 
